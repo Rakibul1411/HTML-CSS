@@ -12,6 +12,9 @@ div {
   border-radius: 4px;
   margin-top: 20px;
   margin-left: 20px;
+  border: solid;
+  border-width: 0.5px;
+  border-color: rgb(206, 206, 206);
 }
 
 .inbox-label {
